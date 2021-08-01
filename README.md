@@ -10,7 +10,7 @@
 
 ### 下载与安装
 
-1. 最新稳定版本下载(V2.5.210801)：**[GitHub下载](https://github.com/yibuqianmo/bkliverec_v2.5/releases/tag/v2.5.210801)** 或 **[官网下载](https://www.bklivedown.top/down.htm)**。
+1. 最新稳定版本下载：**[GitHub下载](https://github.com/yibuqianmo/bkliverec_v2.5/releases/)** 或 **[官网下载](https://www.bklivedown.top/down.htm)**。
 2. 解压并运行安装包进行安装，等待安装完成即可。
 
 ### 注册账号
