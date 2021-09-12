@@ -65,3 +65,4 @@
 | 企鹅体育 | <https://live.qq.com/> |✓|✓|✓|✓| |
 | 奇秀直播 | <https://x.pps.tv/> |✓|✓|✓|✓| |
 | 羚萌直播 | <https://live.51lm.tv/> |✓|✓|✓|✓| |
+| 抖音直播 | <https://live.douyin.com/> |✓|✓|✓|✓| |
